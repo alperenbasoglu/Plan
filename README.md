@@ -186,6 +186,4 @@ Gerçekçi
 
 Global
 
-İsviçre uyumlu
-
-Senin psikolojinle uyumlu
+Karakterinle uyumlu
